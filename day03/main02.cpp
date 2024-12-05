@@ -70,6 +70,7 @@ int main(void) {
                             dontPosition = s.length();
                         }
                     }
+                    continue;
                 }
             } else {
                 break;
